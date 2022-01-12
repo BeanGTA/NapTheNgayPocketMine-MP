@@ -1,6 +1,10 @@
 # NapTheNgayPocketMine-MP
 Plugins Nạp Thẻ Ngay Cho PocketMine-MP
 
+Có tiền tệ khác là Coin
+
+Mua VIP bằng Coin
+
 Tự động Gia Hạn VIP
 
 Có đổi Coin ra EconomyAPI
