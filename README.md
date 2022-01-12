@@ -7,5 +7,7 @@ Tích hợp API napthengay.com
 Danh sách TOP Coin
 
 Cần Plugins này để chạy như sau:
+
 EconomyAPI: https://www.dropbox.com/s/8921hg76vwgwrln/economyapi.phar?dl=0
+
 Tcoin: https://www.dropbox.com/s/vptmjr5sidwc2zr/tcoin.phar?dl=0
