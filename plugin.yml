@@ -1,0 +1,14 @@
+name: TCore
+version: 1.0
+main: BeanGTA\TCore\Main
+api: 3.0.0
+
+commands:
+    muado:
+        usage: /muado
+    muaxu:
+        usage: "/muaxu [coin]"
+    buyvip:
+        usage: "/buyvip"
+    muavips:
+        usage: ""

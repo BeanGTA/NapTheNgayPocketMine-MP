@@ -1,0 +1,20 @@
+---
+diendayduthongtin: '§c¸.•♥•.¸¸.•♥•[§eDonate§c]•♥•.¸¸.•♥•.¸{LINE}§aHãy nhập đầy đủ
+  thông tin và thử lại.{LINE}§0►§aDùng Lệnh§8: §d/napthe §b[mobi|vina|gate|vietel]
+  §3[Số Seri] §3[Mã Cào]{LINE}§c============§9[̲̅§1(̲$)§9̲̅]§c============'
+boardcast: §0►§a§lNgười chơi §8:§b {PLAYER} §ađã nạp §e{MENHGIA} §9{LOAITHE} §avào
+  server§0•'
+napthedung: §0►§aTài Khoản§8:§b {PLAYER}{LINE}§0►§aLoại thẻ§8:§9 {LOAITHE} {LINE}§0►§aMệnh
+  giá §8:§e {MENHGIA}
+napthesai: '§0►§cTài Khoản:§b {PLAYER}{LINE}§0►§cMã Cào§8: §e{PIN}§0►Seri§8: §9{SERI}{LINE}§0►§eLỗi§8:
+  §a{ERROL}'
+mangloi: '§e==========•>[§cLỗi§e]§e<•========== {LINE} §0►§cTên nhà mạng phải là§8:
+  §b[vina|viettel]§0•'
+10000: "700"
+20000: "1400"
+50000: "3500"
+100000: "7000"
+200000: "14000"
+500000: "35000"
+1000000: "100000"
+...

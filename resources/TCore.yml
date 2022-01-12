@@ -1,0 +1,18 @@
+---
+###################################################################################
+##
+##
+## chức năng TCore :
+## Viết sign màu bằng kí tự @ (Thử nghiệm)
+## Nạp Thẻ và tự động gia hạn VIP
+## Tip Task
+##
+##
+##
+## Author: : Hoàng Minh Tiến (BeanGTA)
+## CREATE: 23/2/2019
+####################################################################################
+Config_Version: 1.1dev
+
+#Email dev plugins
+Email: beanvietnammcpe@gmail.com
