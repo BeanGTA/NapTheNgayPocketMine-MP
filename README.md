@@ -14,3 +14,5 @@ Cần Plugins này để chạy như sau:
 EconomyAPI: https://www.dropbox.com/s/8921hg76vwgwrln/economyapi.phar?dl=0
 
 Tcoin: https://www.dropbox.com/s/vptmjr5sidwc2zr/tcoin.phar?dl=0
+
+FormAPI: https://www.dropbox.com/s/m7qdasg47t72mn5/formapi-master.phar?dl=0
